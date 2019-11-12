@@ -1,0 +1,6 @@
+datasets/*
+spark-warehouse/*
+.ipynb_checkpoints/*
+src/python/__pycache__/*
+plots/*
+.vscode
